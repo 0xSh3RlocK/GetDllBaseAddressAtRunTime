@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\bin\Debug\GetTheBaseAdderOfDll.exe.config
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\bin\Debug\GetTheBaseAdderOfDll.exe
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\bin\Debug\GetTheBaseAdderOfDll.pdb
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\obj\Debug\GetTheBaseAdderOfDll.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\obj\Debug\GetTheBaseAdderOfDll.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\obj\Debug\GetTheBaseAdderOfDll.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\obj\Debug\GetTheBaseAdderOfDll.exe
+C:\Users\pc\Desktop\C#\GetTheBaseAdderOfDll\GetTheBaseAdderOfDll\obj\Debug\GetTheBaseAdderOfDll.pdb
